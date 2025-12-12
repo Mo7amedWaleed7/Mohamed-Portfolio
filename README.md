@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-I’m **Mohammed Waleed**, a Front-End Developer who creates modern, fast, and responsive web apps.  
+I’m **Mohamed Waleed**, a Front-End Developer who creates modern, fast, and responsive web apps.  
 I also make educational content on **YouTube & TikTok** about coding, web development and productivity.
 
 <!-- ⭐ الأنيميشن يبدأ هنا ⭐ -->
